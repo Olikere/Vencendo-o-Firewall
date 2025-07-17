@@ -39,3 +39,12 @@ git clone https://github.com/Olikere/Vencendo-o-Firewall
 cd Vencendo-o-Firewall
 chmod +x firewall.sh
 sudo ./firewall.sh
+```
+
+---
+
+#### 📚 Créditos
+
+Desec Security – Base de conhecimento
+
+Desenvolvido por [Olikere](https://github.com/Olikere/)
