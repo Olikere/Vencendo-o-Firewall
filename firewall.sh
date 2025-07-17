@@ -47,7 +47,6 @@ limpa_rules() {
     # Desativar forward
     sysctl -w net.ipv4.ip_forward=0 > /dev/null 2>&1
 
-
     # Zerar log iptables
     echo -n > /var/log/iptables.log
 
@@ -131,7 +130,7 @@ rules_3(){
     carregando
 
     # Ativar forward
-    sysctl -w net.ipv4.ip_forward=1
+    sysctl -w net.ipv4.ip_forward=1 > /dev/null 2>&1
 
     # Acertar as políticas
     iptables -P INPUT DROP
@@ -151,7 +150,7 @@ rules_4(){
     carregando
 
         # Ativar forward
-    sysctl -w net.ipv4.ip_forward=1
+    sysctl -w net.ipv4.ip_forward=1 > /dev/null 2>&1
 
     # Acertar as políticas
     iptables -P INPUT DROP
