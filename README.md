@@ -17,7 +17,7 @@ Este script permite aplicar diferentes regras de firewall no Linux de forma simp
 
 <h2>🖼️ Demonstração</h2>
 <p align="center">
-  <img src="https://github.com/Olikere/Vencendo-o-Firewall/blob/main/desec.png">
+  <img src="https://github.com/Olikere/Vencendo-o-Firewall/blob/main/firewall.gif?raw=true" width="600"
 </p>
 
 
