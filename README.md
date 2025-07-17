@@ -6,6 +6,14 @@ Um script interativo e colorido em Bash para gerenciar regras de firewall com `i
 
 ---
 
+## 📜 Sobre
+
+Este script permite aplicar diferentes regras de firewall no Linux de forma simples e interativa, ideal para uso em laboratórios de segurança, simulações de CTFs ou aprendizado pessoal.
+
+> 🔥 Desenvolvido com base em conceitos aprendidos no curso de Segurança Ofensiva da [Desec Security](https://www.desecsecurity.com/), como parte de estudos práticos.
+
+---
+
 ## 📋 Funcionalidades
 
 - 🧹 Limpar completamente as regras do firewall
